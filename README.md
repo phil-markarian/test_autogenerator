@@ -11,7 +11,7 @@ This program is mainly to autu-generate tests for cypress.
 
 You will need to place your CSV file in your `release/target` folder.
 
-Running the program you will do the following steps:
+To run the program you will do the following steps.
 
 `./release/target/test_generator YourCSVFileName.csv 1 1 1000`
 
