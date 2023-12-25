@@ -1,9 +1,9 @@
 
 # Automated Test Generator for cypress
 
-Automatically generates tests and their appropriate test folder for a CSV containing 1 to N websites.
+Automatically generates tests and their appropriate test folders using a CSV containing 1 to N websites.
 
-This program is mainly to autu-generate tests for cypress.
+This program is used to autu-generate tests for cypress.
 
 ## How to use
 
